@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-amin-3437ba229](https://www.linkedin.com/in/ahmed-amin-3437ba229)
 
-- ⚡ Fun fact **i love Fishing and Explouring**
+- ⚡ Fun fact **i love Fishing and Exploring**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
