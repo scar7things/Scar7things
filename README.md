@@ -19,13 +19,11 @@
 
 - 📝 I regularly write articles on [Notion](Notion)
 
-- 💬 Ask me about **CyberSecurity**
-
 - 📫 How to reach me **scar7things@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmed-amin-3437ba229](https://www.linkedin.com/in/ahmed-amin-3437ba229)
 
-- ⚡ Fun fact **i love Fishing and Exploring**
+- ⚡ Fun fact **i love codeing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
