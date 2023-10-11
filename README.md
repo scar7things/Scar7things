@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scar7things" alt="scar7things" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ahmedaminll" target="blank"><img src="https://img.shields.io/twitter/follow/ahmedaminll?logo=twitter&style=for-the-badge" alt="ahmedaminll" /></a> </p>
 
 - 👯 I’m looking to collaborate on **CyberSecurity and Open source projects**
 
